@@ -1,4 +1,4 @@
-BasiCal Calculator by Max Hilsdorf
+#BasiCal Calculator by Max Hilsdorf
 
 Customization Options:
 
