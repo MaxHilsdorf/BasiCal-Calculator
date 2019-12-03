@@ -1,12 +1,7 @@
-#BasiCal Calculator by Max Hilsdorf
+# BasiCal Calculator by Max Hilsdorf
 
-Customization Options:
-
-- Key Bindings
-- Colors
-- Button Sizes
-- Fonts
-
+Graphical calculator with mouse and keyboard control.
+Theme (layout) customizable directly in the application. Key Bindings, colors, button/label sizes, and fonts can be customized in the code.
 
 Key Bindings:
 
